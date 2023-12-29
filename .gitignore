@@ -32,3 +32,5 @@
 *.app
 
 .idea/
+client
+server
