@@ -32,5 +32,4 @@
 *.app
 
 .idea/
-client
-server
+cmake-build-debug
